@@ -10,3 +10,15 @@ D:\OnlineTest\Kata\Kata\Kata\KataTests\obj\Debug\KataTests.csprojResolveAssembly
 D:\OnlineTest\Kata\Kata\Kata\KataTests\obj\Debug\KataTests.csproj.CoreCompileInputs.cache
 D:\OnlineTest\Kata\Kata\Kata\KataTests\obj\Debug\KataTests.dll
 D:\OnlineTest\Kata\Kata\Kata\KataTests\obj\Debug\KataTests.pdb
+D:\GitHub\KataTest\KataQ18\KataTests\bin\Debug\KataTests.dll
+D:\GitHub\KataTest\KataQ18\KataTests\bin\Debug\KataTests.pdb
+D:\GitHub\KataTest\KataQ18\KataTests\bin\Debug\Kata.dll
+D:\GitHub\KataTest\KataQ18\KataTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\GitHub\KataTest\KataQ18\KataTests\bin\Debug\nunit.framework.dll
+D:\GitHub\KataTest\KataQ18\KataTests\bin\Debug\Kata.pdb
+D:\GitHub\KataTest\KataQ18\KataTests\bin\Debug\nunit.framework.pdb
+D:\GitHub\KataTest\KataQ18\KataTests\bin\Debug\nunit.framework.xml
+D:\GitHub\KataTest\KataQ18\KataTests\obj\Debug\KataTests.csprojResolveAssemblyReference.cache
+D:\GitHub\KataTest\KataQ18\KataTests\obj\Debug\KataTests.csproj.CoreCompileInputs.cache
+D:\GitHub\KataTest\KataQ18\KataTests\obj\Debug\KataTests.dll
+D:\GitHub\KataTest\KataQ18\KataTests\obj\Debug\KataTests.pdb
