@@ -22,3 +22,9 @@ D:\OnlineTest\Kata\KataQ21\Kata\obj\Debug\Kata.dll
 D:\OnlineTest\Kata\KataQ21\Kata\obj\Debug\Kata.pdb
 D:\OnlineTest\Kata\KataQ21\Kata\bin\Debug\Kata.dll
 D:\OnlineTest\Kata\KataQ21\Kata\bin\Debug\Kata.pdb
+E:\WorkSpace\GitHub\KataTest\KataQ21\Kata\bin\Debug\Kata.dll
+E:\WorkSpace\GitHub\KataTest\KataQ21\Kata\bin\Debug\Kata.pdb
+E:\WorkSpace\GitHub\KataTest\KataQ21\Kata\obj\Debug\Kata.csprojAssemblyReference.cache
+E:\WorkSpace\GitHub\KataTest\KataQ21\Kata\obj\Debug\Kata.csproj.CoreCompileInputs.cache
+E:\WorkSpace\GitHub\KataTest\KataQ21\Kata\obj\Debug\Kata.dll
+E:\WorkSpace\GitHub\KataTest\KataQ21\Kata\obj\Debug\Kata.pdb

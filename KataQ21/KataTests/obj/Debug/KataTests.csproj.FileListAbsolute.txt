@@ -46,3 +46,17 @@ D:\OnlineTest\Kata\KataQ21\KataTests\bin\Debug\nunit.framework.dll
 D:\OnlineTest\Kata\KataQ21\KataTests\bin\Debug\Kata.pdb
 D:\OnlineTest\Kata\KataQ21\KataTests\bin\Debug\nunit.framework.pdb
 D:\OnlineTest\Kata\KataQ21\KataTests\bin\Debug\nunit.framework.xml
+E:\WorkSpace\GitHub\KataTest\KataQ21\KataTests\bin\Debug\KataTests.dll
+E:\WorkSpace\GitHub\KataTest\KataQ21\KataTests\bin\Debug\KataTests.pdb
+E:\WorkSpace\GitHub\KataTest\KataQ21\KataTests\bin\Debug\Kata.dll
+E:\WorkSpace\GitHub\KataTest\KataQ21\KataTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\WorkSpace\GitHub\KataTest\KataQ21\KataTests\bin\Debug\nunit.framework.dll
+E:\WorkSpace\GitHub\KataTest\KataQ21\KataTests\bin\Debug\Kata.pdb
+E:\WorkSpace\GitHub\KataTest\KataQ21\KataTests\bin\Debug\nunit.framework.pdb
+E:\WorkSpace\GitHub\KataTest\KataQ21\KataTests\bin\Debug\nunit.framework.xml
+E:\WorkSpace\GitHub\KataTest\KataQ21\KataTests\bin\Debug\zh-Hant\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+E:\WorkSpace\GitHub\KataTest\KataQ21\KataTests\obj\Debug\KataTests.csprojAssemblyReference.cache
+E:\WorkSpace\GitHub\KataTest\KataQ21\KataTests\obj\Debug\KataTests.csproj.CoreCompileInputs.cache
+E:\WorkSpace\GitHub\KataTest\KataQ21\KataTests\obj\Debug\KataTests.csproj.CopyComplete
+E:\WorkSpace\GitHub\KataTest\KataQ21\KataTests\obj\Debug\KataTests.dll
+E:\WorkSpace\GitHub\KataTest\KataQ21\KataTests\obj\Debug\KataTests.pdb
